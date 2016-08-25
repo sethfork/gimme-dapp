@@ -15,6 +15,15 @@ The developers should make ever effort to provide as much information as they ca
 
 
 ETC DONATION ADDRESS: [0x17dAfbe0dA3f55268e543Fb85283c30Aba54CaDE](https://etherhub.io/addr/0x17dAfbe0dA3f55268e543Fb85283c30Aba54CaDE)
+<p align="left">
+  <img src="/public/img/concept/landingpage.png" width="400"/><b>
+  <img src="/public/img/concept/card%20layout.png" width="350"/>
+</p>
+
+
+
+
+
 
 
 ## Local installation
