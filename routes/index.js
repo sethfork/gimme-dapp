@@ -1,5 +1,5 @@
 var mongoose = require( 'mongoose' );
-var Block     = mongoose.model( 'Block' );
+var devDapp     = mongoose.model( 'devDapp' );
 
 //var Memcached = require('memcached');
 //var memcached = new Memcached("localhost:11211");
