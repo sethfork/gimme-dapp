@@ -1,24 +1,36 @@
-# Gimme-dapp
-A social platform for dapp development announcement and tracking 
-
 # GimmeDapp: a social platform for dapp development 
+
 
 A social platform for the developer community to showcase their dapps and let the community upvote, downvote, or comment on the ideas. 
 
 The developers should make ever effort to provide as much information as they can on their project and publish an ETC donation address.
 
+### Current state: Alpha testing
 
-## Development
+[Trello Board](https://trello.com/b/rxy4qqaR/gimmie-dapp)
 
-### Meteor web application
 
-Ensure you have [Meteor](https://www.meteor.com/install) installed.
+ETC DONATION ADDRESS: [0x17dAfbe0dA3f55268e543Fb85283c30Aba54CaDE](https://etherhub.io/addr/0x17dAfbe0dA3f55268e543Fb85283c30Aba54CaDE)
 
-To run the app:
 
-    $ meteor
+## Local installation
 
-Open your web browser and go to [http://localhost:3000](http://localhost:3000) to see the app running.
+Clone the repo
+
+`git clone https://github.com/ethereumproject/explorer`
+
+Download [Nodejs and npm](https://docs.npmjs.com/getting-started/installing-node "Nodejs install") if you don't have them
+
+Install dependencies:
+
+`npm install`
+
+Install mongodb:
+
+MacOS: `brew install mongodb`
+
+Ubuntu: `sudo apt-get install -y mongodb-org`
+
 
 ## License
 
