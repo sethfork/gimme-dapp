@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="/public/img%20-%20Copy/DApp-logo-beta-test.png" width="250"/>
+</p>
+
 # GimmeDapp: a social platform for dapp development 
 
 
